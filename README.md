@@ -1,6 +1,3 @@
-# daily-life-toolkit-privacy
-Privacy policy and legal documents for the Daily Life Toolkit Android app.
-
 # Privacy Policy for Daily Life Toolkit
 
 Last updated: January 31, 2026
