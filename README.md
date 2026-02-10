@@ -11,6 +11,7 @@ Our App is designed to prioritize your privacy. We focus on **offline-first** fu
 - **Camera Permission**: This App requires access to your device's camera to enable the OCR (Optical Character Recognition) for text extraction and QR code scanning features. Images captured are processed locally and are not transmitted to any external servers.
 - **Contacts Permission**: If you use the Emergency Info or Expense Splitter modules, you may choose to import contacts. This data remains on your device and is used only within the App.
 - **Notification Permission**: The App uses notifications to provide timely reminders for warranties, medications, or budget alerts. These are managed locally on your device.
+- **Regional Defaults**: The App uses your device's locale settings to suggest a default currency, number format, and date format. This detection happens entirely offline on your device; no location data (GPS) is collected, and no data is sent to external servers.
 - **Storage Access**: The App requires access to your device's storage to save exported reports (PDF, CSV, TXT) and backups.
 - **In-App Purchases**: We use Google Play's billing system for Pro features. Transaction data is managed by Google.
 
